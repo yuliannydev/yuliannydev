@@ -1,4 +1,5 @@
-### Hola a todos, Mi nombre es Yulianny👋
+### Hola a todos, Mi nombre es Yulianny 👋
+
 
 
 - 👩‍💻 Actualmente estoy desarrollando mi Tesis para optar al título de Ingeniero de Sistemas.
