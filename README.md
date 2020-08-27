@@ -10,7 +10,7 @@
 
 - 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
 
-- 📫 Espero estar muy activa por aquí, y poder colaborar con la comunidad como forma de gratitud por todo el mundo tan hermoso que muestran, como es el del      desarrollo de tecnologías.
+- 🚀 Espero estar muy activa por aquí, y poder colaborar con la comunidad como forma de gratitud por todo el mundo tan hermoso que muestran, como es el del      desarrollo de tecnologías.
 
 - ⚡ Mi meta a cumplir, es ser desarrolladora, llegar a vieja y tener muchas computadoras y seguir desarrollando
 
