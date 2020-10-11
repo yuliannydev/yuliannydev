@@ -1,11 +1,13 @@
 ### Hola a todos, Mi nombre es Yulianny 👋
 
 
-- 👩‍💻 Actualmente estoy desarrollando mi Tesis para optar al título de Ingeniero de Sistemas.
+- 👩‍💻 Actualmente estoy desarrollando mi Tesis para optar al título de Ingeniero de Sistemas, y Trabajo en Raydesite.
 
 - 🌱 En mi carrera universitaria he utilizado lenguajes tales cómo C, C++, Java, Visual basic.
 
 - 👯 Fuera de ella en proyectos pequeños HTML5, CSS3 y PHP7.
+
+- 💻 Profesionalmente trabajo con WordPress, haciendo de Genesis Framework mi herramienta principal.
 
 - 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
 
