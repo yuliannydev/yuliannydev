@@ -13,7 +13,7 @@
 
 - 🚀 Espero estar muy activa por aquí, y poder colaborar con la comunidad como forma de gratitud por todo el mundo tan hermoso que muestran, como es el del      desarrollo de tecnologías.
 
-- ⚡ Mi meta a cumplir, es ser desarrolladora, llegar a vieja y tener muchas computadoras y seguir desarrollando
+- ⚡ Mi meta a cumplir, es ser desarrolladora, llegar a vieja y tener muchas computadoras y seguir desarrollando.
 
 - 💬 Para dudas, o alguna otra cosa: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuliannybetancourtr@gmail.com)
 
