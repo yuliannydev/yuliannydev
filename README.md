@@ -16,6 +16,7 @@
 - ⚡ Mi meta a cumplir, es ser desarrolladora, llegar a vieja y tener muchas computadoras y seguir desarrollando
 
 - 💬 Para dudas, o alguna otra cosa: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuliannybetancourtr@gmail.com)
----
 
-- Si deseas ayudarme a cumplir mis metas más rápido [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H52F76Q)
+- ⚡️❤️ Si deseas ayudarme a cumplir mis metas más rápido [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H52F76Q)
+
+---
