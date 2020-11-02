@@ -1,7 +1,7 @@
-### Hola a todos, Mi nombre es Yulianny 👋
+### Hola a todos, Mi nombre es Yulianny 👋:octocat:
 
 
-- 👩‍💻 Actualmente estoy desarrollando mi Tesis para optar al título de Ingeniero de Sistemas.
+- :mortar_board: Actualmente estoy desarrollando mi Tesis para optar al título de Ingeniero de Sistemas.
 
 - 🌱 Soy Co-Fundadora de Raydesite. 
 
