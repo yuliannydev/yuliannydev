@@ -9,7 +9,7 @@
 
 - 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
 
-- 🚀 Para colaborar con la comunidad en  gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi blog personal,Fundadora y creo contenido en Instagram con my partner Nathalie Rivas. Pueden apoyarnos: [Instagram[https://www.instagram.com/raydesite/]]
+- 🚀 Para colaborar con la comunidad en  gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi blog personal,Fundadora y creo contenido en Instagram con my partner Nathalie Rivas. Pueden apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
 
 - ⚡ Mi meta a cumplir, es ser desarrolladora, llegar a vieja y tener muchas computadoras y seguir desarrollando.
 
