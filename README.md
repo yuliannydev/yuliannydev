@@ -5,13 +5,13 @@
 
 - 🌱 Soy Co-Fundadora de Raydesite. 
 
-- 💻 Profesionalmente trabajo con WordPress, Genesis Frameowrk, HTML5, CSS3, PHP7 y otras tecnologías de desahttps://yuliannybetancourt.github.io/rrollo.
+- 💻 Profesionalmente trabajo con WordPress, Genesis Frameowrk, HTML5, CSS3, PHP7 y otras tecnologías de desarrollo.
 
 - 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
 
 - 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannybetancourt.github.io/), y creo contenido en Instagram con my partner Nathalie Rivas.
 
--  Pueden apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
+- :+1: Pueden seguirnos y apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
 
 - ⚡ Mi meta a cumplir, es ser desarrolladora, llegar a vieja y tener muchas computadoras y seguir desarrollando.
 
