@@ -5,6 +5,8 @@
 
 - 🌱 Soy Co-Fundadora de Raydesite. 
 
+- :green_heart: Estudiante de Platzi.
+
 - 💻 Profesionalmente trabajo con WordPress, Genesis Framework, HTML5, CSS3, PHP7 y otras tecnologías de desarrollo.
 
 - 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
