@@ -9,9 +9,11 @@
 
 - 💻 Profesionalmente trabajo con WordPress, Genesis Framework, HTML5, CSS3, PHP7 y otras tecnologías de desarrollo.
 
+- :radio: Puedes escucharme en el Podcast **A freelancer Exptory**: [Spotify](https://open.spotify.com/show/6zKDGsABuGCYFlq4ZQ7SIO), [Anchor](https://anchor.fm/a-freelancer-exptory) ¡Te esperamos :sparkles:!
+
 - 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
 
-- 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.github.io/), y creo contenido en Instagram con my partner Nathalie Rivas.
+- 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner Nathalie Rivas.
 
 - :+1: Pueden seguirnos y apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
 
