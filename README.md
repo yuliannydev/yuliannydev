@@ -17,7 +17,7 @@
 
 - :+1: Pueden seguirnos y apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
 
-- ⚡ Mi meta a cumplir, es ser desarrolladora, llegar a vieja y tener muchas computadoras y seguir desarrollando.
+- ⚡ Mi meta a cumplir, es ser desarrolladora FullStack, llegar a vieja y tener muchas computadoras y seguir desarrollando.
 
 - 💬 Para dudas, o alguna otra cosa: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuliannybetancourtr@gmail.com)
 
