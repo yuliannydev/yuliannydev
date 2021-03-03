@@ -3,7 +3,7 @@
 
 - :mortar_board: Actualmente estoy desarrollando mi Tesis para optar al título de Ingeniero de Sistemas.
 
-- 🌱 Soy Co-Fundadora de Raydesite. 
+- 🌱 Soy Co-Fundadora de [Raydesite](https://raydesite.com) 
 
 - :green_heart: Estudiante de Platzi.
 
@@ -11,13 +11,19 @@
 
 - :radio: Puedes escucharme en el Podcast **A freelancer Exptory**: [Spotify](https://open.spotify.com/show/6zKDGsABuGCYFlq4ZQ7SIO), [Anchor](https://anchor.fm/a-freelancer-exptory) ¡Te esperamos :sparkles:!
 
-- 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
+- Co-Fundadora de una comunidad orientada al desarrollo profesional en el mundo de la Tecnología a través de la Lectura. [Quiero ser parte](https://discord.com/invite/4hRrS6cVRw)
 
 - 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner Nathalie Rivas.
 
+- 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
+
+- 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner [Nathalie Rivas](https://twitter.com/imxnat).
+
 - :+1: Pueden seguirnos y apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
 
-- ⚡ Mi meta a cumplir, es ser desarrolladora FullStack, llegar a vieja y tener muchas computadoras y seguir desarrollando.
+- ⚡ Metas personales a cumplir este año: Un trabajo, Pasaporte y un Perrito.
+
+- ⚡ Metas Profesionales a cumplir este año: Js, express.js, Node.js MongoDB.
 
 - 💬 Para dudas, o alguna otra cosa: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuliannybetancourtr@gmail.com)
 
