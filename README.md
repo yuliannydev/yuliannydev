@@ -7,7 +7,7 @@
 
 - :green_heart: Estudiante de Platzi.
 
-- 💻 Profesionalmente trabajo con WordPress, Genesis Framework, HTML5, CSS3, PHP7 y otras tecnologías de desarrollo.
+- 💻 Profesionalmente trabajo con WordPress, Genesis Framework, HTML5, CSS3, PHP7, Docker y otras tecnologías de desarrollo.
 
 - :radio: Puedes escucharme en el Podcast **A freelancer Exptory**: [Spotify](https://open.spotify.com/show/6zKDGsABuGCYFlq4ZQ7SIO), [Anchor](https://anchor.fm/a-freelancer-exptory) ¡Te esperamos :sparkles:!
 
