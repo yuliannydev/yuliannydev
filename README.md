@@ -11,7 +11,7 @@
 
 - :radio: Puedes escucharme en el Podcast **A freelancer Exptory**: [Spotify](https://open.spotify.com/show/6zKDGsABuGCYFlq4ZQ7SIO), [Anchor](https://anchor.fm/a-freelancer-exptory) ¡Te esperamos :sparkles:!
 
-- Co-Fundadora de una comunidad orientada al desarrollo profesional en el mundo de la Tecnología a través de la Lectura. [Quiero ser parte](https://discord.com/invite/4hRrS6cVRw)
+- 🚀 Co-Fundadora de una comunidad orientada al desarrollo profesional en el mundo de la Tecnología a través de la Lectura. [Quiero ser parte](https://discord.com/invite/4hRrS6cVRw)
 
 - 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner Nathalie Rivas.
 
