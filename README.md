@@ -13,11 +13,9 @@
 
 - 🚀 Co-Fundadora de una comunidad orientada al desarrollo profesional en el mundo de la Tecnología a través de la Lectura. [Quiero ser parte](https://discord.com/invite/4hRrS6cVRw)
 
-- 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner Nathalie Rivas.
+- 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner [Nathalie Rivas](https://twitter.com/imxnat).
 
 - 😄 Tengo una lista muy interesante de tecnologías que quiero conocer a más profundidad, y proyectos personales que quiero desarrollar al terminar mi tesis.
-
-- 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner [Nathalie Rivas](https://twitter.com/imxnat).
 
 - :+1: Pueden seguirnos y apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
 
