@@ -1,6 +1,6 @@
 ### Hola a todos, Mi nombre es Yulianny 👋:octocat:
 
-[banner-yulianny](https://i.imgur.com/4GLPWie.png)
+![banner-yulianny](https://i.imgur.com/4GLPWie.png)
 
 - :mortar_board: Ingeniero de Sistemas.
 
