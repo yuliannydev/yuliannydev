@@ -1,13 +1,12 @@
 ### Hola a todos, Mi nombre es Yulianny 👋:octocat:
 
+[banner-yulianny](https://i.imgur.com/4GLPWie.png)
 
-- :mortar_board: Actualmente estoy desarrollando mi Tesis para optar al título de Ingeniero de Sistemas.
+- :mortar_board: Ingeniero de Sistemas.
 
 - 🌱 Soy Co-Fundadora de [Raydesite](https://raydesite.com) 
 
 - :green_heart: Estudiante de Platzi.
-
-- 💻 Profesionalmente trabajo con WordPress, Genesis Framework, HTML5, CSS3, PHP7, Docker y otras tecnologías de desarrollo.
 
 - :radio: Puedes escucharme en el Podcast **A freelancer Exptory**: [Spotify](https://open.spotify.com/show/6zKDGsABuGCYFlq4ZQ7SIO), [Anchor](https://anchor.fm/a-freelancer-exptory) ¡Te esperamos :sparkles:!
 
@@ -21,7 +20,7 @@
 
 - ⚡ Metas personales a cumplir este año: Un trabajo, Pasaporte y un Perrito.
 
-- ⚡ Metas Profesionales a cumplir este año: Js, express.js, Node.js MongoDB.
+- ⚡ Metas Profesionales a cumplir este año: Js, express.js, Node.js, MongoDB.
 
 - 💬 Para dudas, o alguna otra cosa: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuliannybetancourtr@gmail.com)
 
