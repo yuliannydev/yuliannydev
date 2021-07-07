@@ -6,8 +6,6 @@
 
 - 🌱 Co-Fundadora de [Raydesite](https://raydesite.com) 
 
-- :green_heart: Estudiante de Platzi.
-
 - :radio: Puedes escucharme en el Podcast **A freelancer Exptory**: [Spotify](https://open.spotify.com/show/6zKDGsABuGCYFlq4ZQ7SIO), [Anchor](https://anchor.fm/a-freelancer-exptory) ¡Te esperamos :sparkles:!
 
 - 🚀 Co-Fundadora de una comunidad orientada al desarrollo profesional en el mundo de la Tecnología a través de la Lectura. [Quiero ser parte](https://discord.com/invite/4hRrS6cVRw)
