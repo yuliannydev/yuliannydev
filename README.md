@@ -10,13 +10,11 @@
 
 - 🚀 Co-Fundadora de una comunidad orientada al desarrollo profesional en el mundo de la Tecnología a través de la Lectura. [Quiero ser parte](https://discord.com/invite/4hRrS6cVRw)
 
-- 🚀 Para colaborar con la comunidad en gratitud por todo el mundo tan hermoso que muestran, escribo post de tecnologías en mi [blog personal](https://yuliannydev.me/), y creo contenido en Instagram con my partner [Nathalie Rivas](https://twitter.com/imxnat).
-
-- :+1: Pueden seguirnos y apoyarnos: [Instagram](https://www.instagram.com/raydesite/)
+- :+1: Pueden seguirme y apoyarme: [Instagram](https://www.instagram.com/raydesite/)
 
 - ⚡ Metas personales a cumplir este año: Un trabajo, Pasaporte y un Perrito.
 
-- ⚡ Metas Profesionales a cumplir este año: JavaScript, express.js, Node.js, MongoDB.
+- ⚡ Metas Profesionales a cumplir este año: JavaScript, Node.js, Gatsby.js o Next.js, MongoDB, y GraphQL.
 
 - 💬 Para dudas, o alguna otra cosa: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuliannybetancourtr@gmail.com)
 
