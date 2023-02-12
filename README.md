@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yulianny Betancourt, and I'm a Systems Engineer.
 - 👀 I’m interested in A11y and React.js.
-- 🌱 I’m currently learning to make testing with JEST and React testing library, and Nextjs
-- 💞️ I’m currently collaborating with the translation of post in [freeCodeCamp](https://www.freecodecamp.org/)
+- 🌱 I’m currently learning to make testing with JEST and React testing library, and Nextjs.
+- 💞️ I’m currently collaborating with the translation of post in [freeCodeCamp](https://www.freecodecamp.org/).
 - 📫 Yoy can find me on [LinkedIn](https://www.linkedin.com/in/yulianny-betancourt/) for more.
 
 <!---
