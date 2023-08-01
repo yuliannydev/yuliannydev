@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yulianny Betancourt, and I'm a System Engineer.
-- 👀 I’m interested in Next.js and Pyhton.
-- 🌱 I’m currently learning Nextjs, Pyhton, Pandas and Numpy.
+- 👀 I’m interested in Data Science and Pyhton.
+- 🌱 I’m currently learning Pyhton, Pandas and Numpy.
 - 💞️ I’m currently collaborating with the translation of post in [freeCodeCamp](https://www.freecodecamp.org/).
 - 📫 Yoy can find me on [LinkedIn](https://www.linkedin.com/in/yulianny-betancourt/) for more.
 
